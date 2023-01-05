@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arouna Sidibé</h1>
-<h3 align="center">A passionate Software Engineer from Côte d'Ivoire</h3>
+<h3 align="center">A passionate Software Engineer from Côte d'Ivoire <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACFCAMAAAApQEceAAAAD1BMVEX3fwD///8AnmD6qVRVvpVB800FAAAAiUlEQVR4nO3PMQEAMAgDMGDzrxkRfTgSB6mKvY79ieUPERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERGRm5EFiZhqgvuGvCoAAAAASUVORK5CYII=" alt="android" width="40" height="40"/></h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.bitsbyamel.com/387e4f52081bfebd6ba96d9d784e9f94/javascript_gif.gif"/>
 
