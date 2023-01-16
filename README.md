@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [ronphobos.com/projects](https://ronphobos.com/projects)
 
-- 📝 I regularly write articles on [ronphobos.com](ronphobos.com)
+- 📝 I regularly write articles on [ronphobos.com](https://ronphobos.com)
 
 - 💬 Ask me about **Laravel, JavaScript, Python and Flutter**
 
 - 📫 How to reach me **sidibearouna71@gmail.com**
 
-- 📄 Know about my experiences [ronphobos.com/resume](ronphobos.com/resume)
+- 📄 Know about my experiences [ronphobos.com/resume](https://ronphobos.com/resume)
 
 - ⚡ Fun fact **I'm dedicating myself to make life easier for everyone**
 
