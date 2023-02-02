@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ronphobos.com/projects](https://ronphobos.com/projects)
 
-- 📝 I regularly write articles on [ronphobos.com](https://ronphobos.com)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/ronphobos)
 
 - 💬 Ask me about **Laravel, JavaScript, Python and Flutter**
 
