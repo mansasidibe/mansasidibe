@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [ronphobos.com/projects](https://ronphobos.com/projects)
+- 👨‍💻 All of my projects are available at [not available for the moment](https://ronphobos.com/projects)
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/ronphobos)
 
