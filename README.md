@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **sidibearouna71@gmail.com**
 
-- 📄 Know about my experiences [ronphobos.com/resume](https://ronphobos.com/resume)
+- 📄 Know about my experiences [not available for the moment](https://ronphobos.com/resume)
 
-- ⚡ Fun fact **I'm dedicating myself to make life easier for everyone**
+- ⚡ Fun fact **I'm dedicating myself to make life easier for everyone, and I'm pretty good at that.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
