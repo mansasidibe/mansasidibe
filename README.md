@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Laravel, JavaScript, Python and Flutter**
 
-- 📫 How to reach me **sidibearouna71@gmail.com**
-
 - 📄 Know about my experiences [not available for the moment](https://ronphobos.com/resume)
 
 - ⚡ Fun fact **I'm dedicating myself to make life easier for everyone, and I'm pretty good at that.**
