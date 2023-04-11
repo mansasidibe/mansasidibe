@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronphobos&label=Profile%20views&color=0e75b6&style=flat" alt="ronphobos" /> </p>
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Blockchain programming**
 
 - 👨‍💻 All of my projects are available at [not available for the moment](https://ronphobos.com/projects)
 
