@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Laravel, JavaScript, Python and Flutter**
 
-- 📄 Know about my experiences [sidibearouna.com/resume](https://sidibe-arouna.vercel.app)
+- 📄 Know about my experiences [sidibearouna.com/resume](https://sidibe-arouna.vercel.app/about)
 
 - ⚡ Fun fact **I'm dedicating myself to make life easier for everyone, and I'm pretty good at that.**
 
