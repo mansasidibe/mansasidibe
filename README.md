@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Blockchain programming**
 
-- 👨‍💻 All of my projects are available at [not available for the moment]([https://ronphobos.com/projects](https://sidibe-arouna.vercel.app/projects))
+- 👨‍💻 All of my projects are available at [sidibearouna.com](https://sidibe-arouna.vercel.app/projects)
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/ronphobos)
 
 - 💬 Ask me about **Laravel, JavaScript, Python and Flutter**
 
-- 📄 Know about my experiences [not available for the moment]([https://ronphobos.com/resume](https://sidibe-arouna.vercel.app))
+- 📄 Know about my experiences [sidibearouna.com/resume](https://sidibe-arouna.vercel.app)
 
 - ⚡ Fun fact **I'm dedicating myself to make life easier for everyone, and I'm pretty good at that.**
 
