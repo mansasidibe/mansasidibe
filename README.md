@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronphobos&label=Profile%20views&color=0e75b6&style=flat" alt="ronphobos" /> </p>
 
-- 🌱 I’m currently learning **Blockchain programming**
+- 🌱 I’m currently learning **Smart Contracts programming**
 
 - 👨‍💻 All of my projects are available at [sidibearouna.com](https://sidibe-arouna.vercel.app/projects)
 
@@ -26,7 +26,6 @@
 <a href="https://stackoverflow.com/users/18271267/ronphobos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18271267" height="30" width="40" /></a>
 <a href="https://kaggle.com/sidibearouna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sidibearouna" height="30" width="40" /></a>
 <a href="https://instagram.com/ronphobos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronphobos" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sircodeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sircodeur" height="30" width="40" /></a>
 <a href="https://discord.gg/zsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ronphobos" height="30" width="40" /></a>
 </p>
 
