@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [sidibearouna.com](https://sidibe-arouna.vercel.app/projects)
 
-- 📝 I regularly write articles on [Wiki](https://github.com/ronphobos/blog/wiki) and [Dev.to](https://dev.to/ronphobos)
+- 📝 I regularly write articles on [Wiki]([https://github.com/ronphobos/blog/wiki](https://github.com/ronphobos/blog)) and [Dev.to](https://dev.to/ronphobos)
 
 - 💬 Ask me about **Laravel, JavaScript, Python and Flutter**
 
