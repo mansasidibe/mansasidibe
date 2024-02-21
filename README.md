@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Engineer from Côte d'Ivoire <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aeb5CSUJZXiqXIVf2HOt_XixZqXvKvp8Bg&usqp=CAU" alt="android" width="20" height="15"/></h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://www.bitsbyamel.com/387e4f52081bfebd6ba96d9d784e9f94/javascript_gif.gif"/> -->
-<a href="https://app.daily.dev/ronphobos"><img align="right" src="https://api.daily.dev/devcards/8d7704613a8b43ef8dbc53f7388aa647.png?r=x79" width="400" alt="Arouna Sidibe's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/ronphobos"><img align="right" src="https://api.daily.dev/devcards/8d7704613a8b43ef8dbc53f7388aa647.png?r=x79" width="400" alt="Arouna Sidibe's Dev Card"/></a> -->
+<a href="https://app.daily.dev/mansasidibe"><img src="https://api.daily.dev/devcards/v2/LpVbWBVMFij6gkrWHUorW.png?r=qi8" width="356" alt="Arouna Sidibe's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronphobos&label=Profile%20views&color=0e75b6&style=flat" alt="ronphobos" /> </p>
 
